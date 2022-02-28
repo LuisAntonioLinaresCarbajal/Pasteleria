@@ -18,11 +18,11 @@
     <meta name="description" content="Hola Bienvenido a Pastelería El Gato Boris, empresa mexicana con mas de 15 años
     de experiencia elaborando los pasteles mas deliciosos del mundo.">
     <!--imagen miniatura de la pagina-->
-    <meta property="og:image" content="">
+    <meta property="og:image" content="https://raw.githubusercontent.com/LuisAntonioLinaresCarbajal/Pasteleria/master/img/template.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <!--miniatura de la pagina-->
-    <link rel="image_src" href="">
+    <link rel="image_src" href="https://raw.githubusercontent.com/LuisAntonioLinaresCarbajal/Pasteleria/master/img/template.jpg">
 </head>
 
 <body>
